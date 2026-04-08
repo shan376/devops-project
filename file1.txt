@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from Server 2
+=======
+Hello from Server 1
+>>>>>>> df5c7bbc60398d9c9221e409e9156e98b9e49630
